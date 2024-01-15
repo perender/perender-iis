@@ -1,7 +1,5 @@
 # Integrating PERENDER with IIS (Internet Information Services)
-![image](https://github.com/perender/perender-iis/assets/155614699/4e7ab024-5427-48ce-9dd2-33cb585f6af8)
-
-IIS (Internet Information Services) es un servidor web desarrollado por Microsoft para sistemas operativos Windows. Su función principal es alojar y gestionar aplicaciones web, así como facilitar la comunicación entre los clientes web y los recursos del servidor.
+Updated at: [https://doc.perender.com/cdn-integrations/cloudflare](https://doc.perender.com/server-integrations/iis)
 
 # Step 1
 <b>Prerequisites:</b>
