@@ -1,5 +1,5 @@
 # Integrating PERENDER with IIS (Internet Information Services)
-Updated at: [https://doc.perender.com/cdn-integrations/cloudflare](https://doc.perender.com/server-integrations/iis)
+Updated at: https://doc.perender.com/server-integrations/iis
 
 # Step 1
 <b>Prerequisites:</b>
